@@ -1,0 +1,17 @@
+﻿{
+
+  "Links": "//a",
+  "Buttons_input": "//input",
+  "Buttons": "//button",
+  "InputDestination": "//input[@id='autosuggest-hotels']",
+  "DestinationDropDownMenu_1stOption": "//ul[@class='react-autosuggest__section-suggestions-container']/li[1]",
+  "Day_AddUserDay": "//td[contains(@class,'CalendarDay CalendarDay--valid')",
+  "CalendarMounth": "//div[@class='CalendarMonth CalendarMonth--horizontal' and @data-visible='true']//strong",
+  "CalendarNavigateMounth": "//span[@class='DayPickerNavigation__next DayPickerNavigation__next--default']",
+  "RoomGuest": "//span[@id='occupancyField']",
+  "Guest_AllSelectBoxes": "//select[@class='selectBox']",
+  "GuestBtnOK": "//button[@class='okBtn']",
+  "PageUiFindSearchResults": "//span[@class='logoIcon']",
+  "IconHotel": "//span[text()='Hotels']",
+  "BtnFindHotels": "//button[@id='find-hotels']"
+}

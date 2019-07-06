@@ -1,0 +1,8 @@
+﻿{
+
+  "Links": "//a",
+  "Buttons_input": "//input",
+  "Buttons": "//button",
+  "LinkFindActivities": "//a[@id='productsNavActivities']"
+
+}
